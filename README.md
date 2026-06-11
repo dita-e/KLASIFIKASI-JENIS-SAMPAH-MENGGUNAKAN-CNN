@@ -13,8 +13,7 @@ Proyek ini mengimplementasikan algoritma **Convolutional Neural Network (CNN)** 
 * **Pembagian Data:** 80% Data Training (240 gambar) dan 20% Data Testing (60 gambar).
 
 ## 3. Hasil Evaluasi Model
-Model dilatih menggunakan arsitektur CNN dengan teknik *Data Augmentation* untuk mencegah overfitting. Evaluasi akhir menggunakan *Confusion Matrix* menunjukkan performa model yang sangat baik (Akurasi ~91.6%). Klasifikasi untuk jenis sampah plastik mencapai presisi sempurna (20/20 gambar tertebak benar).
-
+Model dilatih menggunakan arsitektur CNN dengan teknik *Data Augmentation* untuk mencegah overfitting. Evaluasi akhir menggunakan *Confusion Matrix* menunjukkan performa model yang memiliki Akurasi 91.67%.
 Berikut adalah visualisasi **Confusion Matrix**:
 ![Confusion Matrix](Figure_1.png)
 
