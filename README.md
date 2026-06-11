@@ -1,7 +1,6 @@
 # Proyek UAS Kecerdasan Buatan (Kelas C)
 **Dosen Pengampu:** Dr. Raden Arief Setyawan, ST., MT.  
-**Nama Mahasiswa:** PRADITA MAHAR AYU
-**Nim:** 245060301111019
+**Nama Mahasiswa / Nim:** PRADITA MAHAR AYU / 245060301111019
 
 ---
 
